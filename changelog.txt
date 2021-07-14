@@ -1,4 +1,9 @@
 
+## [0.1.0] - 2021-07-14
+### Added
+- test.html
+
+
 ## [0.0.2] - 2021-07-14
 ### Changed
 - index.html added function
@@ -10,5 +15,6 @@
 
 
 
+[0.1.0]: https://github.com/George-LLC/brench-test
 [0.0.2]: https://github.com/George-LLC/brench-test
 [0.0.1]: https://github.com/George-LLC/brench-test
